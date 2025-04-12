@@ -1,5 +1,4 @@
-# Olá 👋!
-## Meu nome é Eduardo Romano 
+# Olá 👋! Meu nome é Eduardo Romano
 
 - 🚀 Atualmente trabalho como Jovem Aprendiz
 - 🎓 Cursando ADS (Análise e Desenvolvimento de Sistemas)
