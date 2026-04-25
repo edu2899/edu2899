@@ -2,7 +2,7 @@
 
 **`Trainee Dev Full Stack`**
 
-Passionate about technology with a strong focus on web development, application building, and cybersecurity. I enjoy turning ideas into practical solutions and continuously improving my skills through hands-on projects. Problem-solving is at the core of what I do — whether it's debugging code, optimizing performance, or tackling complex challenges. Always curious, always learning, and always building.
+Passionate about technology with a strong focus on web development, application building, and cybersecurity. I enjoy turning ideas into practical solutions and continuously improving my skills through hands-on projects. Problem-solving is at the core of what I do, whether it's debugging code, optimizing performance, or tackling complex challenges. Always curious, always learning, and always building.
 
 <!--
 compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
