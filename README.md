@@ -2,7 +2,7 @@
 
 **`Trainee Dev Full Stack`**
 
-My name is Eduardo Romano, I am 19 years old and I am from São Paulo. I am currently studying Systems Analysis and Development at UNIP. I am passionate about technology and have a strong interest in web applications. I aim to create modern, functional, and well-structured solutions while continuously learning through practical projects and ongoing studies. My goal is to grow professionally and contribute with efficient, innovative solutions that have a positive impact in the technology field.
+Passionate about technology with a strong focus on web development, application building, and cybersecurity. I enjoy turning ideas into practical solutions and continuously improving my skills through hands-on projects. Problem-solving is at the core of what I do — whether it's debugging code, optimizing performance, or tackling complex challenges. Always curious, always learning, and always building.
 
 <!--
 compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
