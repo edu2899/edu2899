@@ -1,13 +1,10 @@
 # 🦸 Eduardo Romano
 
-**`Trainee Dev Full Stack`**
+🎓 Systems Analysis and Development Student 
+🔐 Cybersecurity Student
 
-Cybersecurity & Development enthusiast focused on **information security, secure systems, and web development**.
-Skilled in **Python, JavaScript, SQL**, automation, and continuous learning through hands-on projects.
-
-<!--
-compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
--->
+Cybersecurity & Development enthusiast focused on information security, secure systems, and web development.
+Skilled in Python, JavaScript, SQL, automation, and continuous learning through hands-on projects.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/eduardo-romano-88997a340/">
@@ -32,49 +29,25 @@ compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](ht
 
 ---
 
-### 🤖 Languages ​​and Technologies
+## 🚀 Technologies and Tools
 
+### 💻 Languages
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cs,js,html,css" />
+</p>
+
+### 🛡️ Cybersecurity
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,git,docker" />
+</p>
 
 <br/>
 <br/>
