@@ -1,6 +1,6 @@
 # 👨‍💻 Eduardo Romano
 
-🎓 Systems Analysis and Development Student 
+🎓 Systems Analysis and Development Student \
 🔐 Cybersecurity Student
 
 Cybersecurity & Development enthusiast focused on information security, secure systems, and web development.
