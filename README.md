@@ -28,7 +28,7 @@ Skilled in Python, JavaScript, SQL, automation, and continuous learning through 
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cs,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cs,js" />
 </p>
 
 ### 🛡️ Cybersecurity
@@ -37,14 +37,6 @@ Skilled in Python, JavaScript, SQL, automation, and continuous learning through 
   <img src="https://skillicons.dev/icons?i=linux,kali,bash" />
 </p>
 
-### ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=gcp,git,docker" />
-</p>
-
-<br/>
-<br/>
 
 
 
