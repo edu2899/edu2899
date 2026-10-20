@@ -13,12 +13,6 @@ Skilled in Python, JavaScript, SQL, automation, and continuous learning through 
             title="My LinkedIn"
             src="https://custom-icon-badges.demolab.com/badge/-LinkedIn%20-lightblue?style=for-the-badge&logoColor=white&logo=linke"
     />
-    <a href="https://web.dio.me/users/eduardoromano289">
-        <img 
-            alt="dio"
-            title="My DIO"
-            src="https://custom-icon-badges.demolab.com/badge/-DIO%20-D8B4FE?style=for-the-badge&logoColor=white&logo=dio"
-    />
     <a href="https://github.com/edu2899?tab=repositories">
         <img 
             alt="repositories"
