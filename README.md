@@ -34,7 +34,7 @@ Skilled in Python, JavaScript, SQL, automation, and continuous learning through 
 ### 🛡️ Cybersecurity
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash" />
+  <img src="https://skillicons.dev/icons?i=linux,bash" />
 </p>
 
 
